@@ -6,3 +6,6 @@ run project:npm run start
 
 
 without css
+
+
+Atomic design system inside component folder
